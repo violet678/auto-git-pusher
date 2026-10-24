@@ -1,0 +1,7 @@
+{
+  "repo_path": "/home/violet/auto-git-pusher-main",
+  "mode": "auto",
+  "debounce_seconds": 3,
+  "commit_prefix": "auto",
+  "ignore_patterns": [".git", ".venv", "__pycache__", "*.swp", "*.tmp"]
+}
